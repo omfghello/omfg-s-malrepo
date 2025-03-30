@@ -9,11 +9,11 @@ password for all is infected.
 
 Will provide a steady stream of samples to put in this repo every once in a while. 
 
-##Latest samples:
+## Latest samples:
 
 <ol>
-  <li>[Panda stealer](https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/Info%20stealers/Panda%20stealer)</li>
-  <li>[Emmenhtal](https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/loader/Emmenhtal)</li>
+  <li>[Panda stealer](malware samples/loader/Emmenhtal)</li>
+  <li>[Emmenhtal](malware samples/loader/Emmenhtal)</li>
 </ol>
 
 all zip folders include an exe, elf or apk file file in it
