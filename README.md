@@ -12,8 +12,8 @@ Will provide a steady stream of samples to put in this repo every once in a whil
 ## Latest samples:
 
 <ol>
-  <li><a href="https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/Info%20stealers/Panda%20stealer"Panda stealer</a></li>
-  <li><a href="https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/loader/Emmenhtal"Emmenhtal</a></li>
+  <li><a href="https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/Info%20stealers/Panda%20stealer">Panda stealer</a></li>
+  <li><a href="https://github.com/omfghello/omfg-s-malrepo/tree/main/malware%20samples/loader/Emmenhtal">Emmenhtal</a></li>
 </ol>
 
 all zip folders include an exe, elf or apk file file in it
