@@ -5,7 +5,9 @@
 #### Do not install any of these unless you know what you're doing, they can/will destroy your pc. This repo is made for ease of access for analysis and educational purposes only. A vm and an isolated network is recommended when running any of these.
 
 
-password for all is infected.
+password for all is:  **infected**
+
+all zip folders include an exe, elf or apk file file in it
 
 Will provide a steady stream of samples to put in this repo every once in a while. 
 
