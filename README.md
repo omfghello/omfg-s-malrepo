@@ -7,7 +7,7 @@
 
 password for all is:  **infected**
 
-all zip folders include an exe, elf or apk file file in it
+all zip folders include an exe, elf or apk file in it
 
 Will provide a steady stream of samples to put in this repo every once in a while. 
 
