@@ -1,4 +1,4 @@
-# omfg-s-malware repo
+# omfg's malware repo
 
 ## Warning!
 
